@@ -1,3 +1,3 @@
 ## Linked Queue
 
-Simple c++ Linked Queue with gtests unit tests.
+Simple c++ Linked Queue with unit tests (GTests). 
